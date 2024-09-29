@@ -1,6 +1,6 @@
-<h1 align="center">
-<img src="https://raw.githubusercontent.com/CrocoFactory/.github/main/branding/logo/bookmark_transparent.svg" width="300">
-</h1><br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/CrocoFactory/.github/main/branding/logo/bookmark_transparent.svg" height="80">
+</p>
 
 # 🐊 Croco Factory
 
