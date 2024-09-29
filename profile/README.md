@@ -1,10 +1,10 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/CrocoFactory/.github/main/branding/logo/transparent.png" width="300">
+<img src="https://raw.githubusercontent.com/CrocoFactory/.github/main/branding/logo/bookmark_transparent.svg" width="300">
 </h1><br>
 
 # 🐊 Croco Factory
 
-Specializing in developing robust libraries built on [Web3.py](https://github.com/ethereum/web3.py) and handy API wrapping packages.
+We specialise in developing handy API wrapping packages and robust libraries built on web3.py.
 
 ## 🛠️ About Us
 
