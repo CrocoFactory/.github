@@ -4,7 +4,7 @@
 
 # 🐊 Croco Factory
 
-We specialise in developing handy API wrapping packages and robust libraries built on web3.py.
+We specialize in developing handy API wrapping Python packages and robust libraries built on web3.py
 
 ## 🛠️ About Us
 
